@@ -1,0 +1,10 @@
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.exe.config
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.exe
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.pdb
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.csprojResolveAssemblyReference.cache
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Exit.resources
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Delirium.resources
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Properties.Resources.resources
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.csproj.GenerateResource.Cache
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.exe
+C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.pdb

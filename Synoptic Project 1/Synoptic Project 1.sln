@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synoptic Project 1", "Synoptic Project 1\Synoptic Project 1.csproj", "{40AC261A-3810-4EFF-ACA7-1FDB1ED7A945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AC261A-3810-4EFF-ACA7-1FDB1ED7A945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AC261A-3810-4EFF-ACA7-1FDB1ED7A945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AC261A-3810-4EFF-ACA7-1FDB1ED7A945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AC261A-3810-4EFF-ACA7-1FDB1ED7A945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://uk1tfs01:8080/tfs/tfs2005upgradecollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Synoptic\u0020Project\u00201\\Synoptic\u0020Project\u00201.csproj
+		SccProjectName1 = Synoptic\u0020Project\u00201
+		SccLocalPath1 = Synoptic\u0020Project\u00201
+	EndGlobalSection
+EndGlobal
