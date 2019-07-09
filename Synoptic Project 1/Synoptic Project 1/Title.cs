@@ -17,11 +17,23 @@ namespace Synoptic_Project_1
         public Delirium()
         {
             InitializeComponent();
+            pl1.Show();
         }
 
-        private void lbExit_Click(object sender, EventArgs e)
+
+        private void btnStart_Click(object sender, EventArgs e)
         {
-            c.Exit();
+            pl2.Show();
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            pl2.Hide();
         }
     }
 }

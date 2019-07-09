@@ -8,3 +8,13 @@ C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\D
 C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.csproj.GenerateResource.Cache
 C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.exe
 C:\TFSSourceControl\HBA\SSISPackages\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.pdb
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.exe.config
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.exe
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.pdb
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.exe
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\bin\Debug\Synoptic Project 1.pdb
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.csprojResolveAssemblyReference.cache
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Exit.resources
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Delirium.resources
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic_Project_1.Properties.Resources.resources
+C:\Users\jlee\OneDrive - Hogg Robinson Plc\Documents\Visual Studio 2015\Projects\Synoptic Project 1\Synoptic Project 1\obj\Debug\Synoptic Project 1.csproj.GenerateResource.Cache
